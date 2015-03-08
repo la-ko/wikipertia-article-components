@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.codehaus.swizzle:swizzle-confluence:xwiki:1.2-20080419">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/swizzle/swizzle-confluence/1.2-20080419/swizzle-confluence-1.2-20080419-xwiki.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/swizzle/swizzle-confluence/1.2-20080419/swizzle-confluence-1.2-20080419-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/swizzle/swizzle-confluence/1.2-20080419/swizzle-confluence-1.2-20080419-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
