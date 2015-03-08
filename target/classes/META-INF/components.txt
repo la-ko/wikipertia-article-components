@@ -1,4 +1,0 @@
-de.wikipertia.xwiki.components.internal.DefaultHelloWorld
-de.wikipertia.xwiki.components.script.HelloWorldScriptService
-de.wikipertia.xwiki.components.internal.DefaultObjectRetrieval
-de.wikipertia.xwiki.components.script.ObjectRetrievalScriptService
